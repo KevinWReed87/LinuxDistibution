@@ -6,5 +6,8 @@
 
 - Ensuring APT is installed by typing apt in command line
 
-https://i.imgur.com/MXysTUb.png
+<img src="https://i.imgur.com/MXysTUb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+
 
