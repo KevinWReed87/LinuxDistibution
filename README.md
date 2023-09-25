@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/AvgxJTk.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
 <h1>Install software in a Linux distribution</h1>
 
 
